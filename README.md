@@ -1,2 +1,2 @@
 # Form-Validation
-## Creating Form Validation usinh html css and javascript
+## Creating Form Validation web page using html css and javascript
